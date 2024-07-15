@@ -1123,7 +1123,12 @@ spaces
   margin-bottom: 90px !important; }
 
 .sb-mb-60 {
+  color: #36701b;
   margin-bottom: 60px !important; }
+
+.sb-mb-601 {
+    margin-bottom: 60px !important; }
+
 
 .sb-mb-40 {
   margin-bottom: 40px !important; }
