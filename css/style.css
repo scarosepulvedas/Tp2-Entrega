@@ -665,7 +665,10 @@ stars
    
 }
 
-
+.sb-mb-98{
+      color: #44300d;
+    margin-bottom: 10px !important;
+}
 
 .sb-stars {
   padding: 0;
